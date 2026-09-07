@@ -33,7 +33,7 @@ gets highlighted too while the toggle is on.
 2. Enable **Developer mode** (top-right toggle).
 3. Click **Load unpacked**.
 4. Select the `highlight-links-extension` folder.
-5. The extension icon should now appear in your toolbar.
+5. The extension icon should now appear in the toolbar.
 
 ## Usage
 
